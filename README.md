@@ -1,1 +1,2 @@
-# cs340
+# CS 340 Portfolio Project
+# Database
